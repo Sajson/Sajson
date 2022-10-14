@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋, I'm Adrian Mokrzycki!</h1>
+<h1 align="left">Hello 👋</h1>
 <h3 align="left">A learning frontend developer</h3>
 
 - 🔭 I’m currently working on [admin_board](https://github.com/Sajson/admin_board)
