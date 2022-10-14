@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋</h1>
-<h3 align="left">A learning frontend developer</h3>
+<h3 align="left">I'm learning frontend developer</h3>
 
 - 🔭 I’m currently working on [admin_board](https://github.com/Sajson/admin_board)
 
